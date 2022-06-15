@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674075089869",
+    "project_id": "omar-shop1",
+    "storage_bucket": "omar-shop1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674075089869:android:84f6317d6cfe683a1d8284",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674075089869-lsvmqqu1mk7m6faqfn05e85fii8eib7e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDReBN6VFcEi2AO2CBEf6btT73nTAzrEW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674075089869-lsvmqqu1mk7m6faqfn05e85fii8eib7e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
